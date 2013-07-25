@@ -1,0 +1,6 @@
+c:\users\dmitry\documents\visual studio 2012\Projects\DifferntPatterns\DifferntPatterns\bin\Debug\DifferntPatterns.exe.config
+c:\users\dmitry\documents\visual studio 2012\Projects\DifferntPatterns\DifferntPatterns\obj\Debug\DifferntPatterns.csprojResolveAssemblyReference.cache
+c:\users\dmitry\documents\visual studio 2012\Projects\DifferntPatterns\DifferntPatterns\bin\Debug\DifferntPatterns.exe
+c:\users\dmitry\documents\visual studio 2012\Projects\DifferntPatterns\DifferntPatterns\bin\Debug\DifferntPatterns.pdb
+c:\users\dmitry\documents\visual studio 2012\Projects\DifferntPatterns\DifferntPatterns\obj\Debug\DifferntPatterns.exe
+c:\users\dmitry\documents\visual studio 2012\Projects\DifferntPatterns\DifferntPatterns\obj\Debug\DifferntPatterns.pdb
