@@ -42,15 +42,23 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AbstractFactoryPattern.cs" />
+    <Compile Include="AdapterPattern.cs" />
     <Compile Include="BuilderPattern.cs" />
+    <Compile Include="CompositePattern.cs" />
+    <Compile Include="CustomAttributesPattern.cs" />
     <Compile Include="DelegationPattern.cs" />
+    <Compile Include="EventChannelPattern.cs" />
+    <Compile Include="FacadePattern.cs" />
     <Compile Include="FactoryMethodPattern.cs" />
     <Compile Include="LazyInitializationPattern.cs" />
     <Compile Include="MainProgramm.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="PrototypePattern.cs" />
+    <Compile Include="ProxyPattern.cs" />
+    <Compile Include="PublishSubscribePattern.cs" />
     <Compile Include="RAIIPattern.cs" />
     <Compile Include="SingletonPattern.cs" />
+    <Compile Include="WrapperPattern.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

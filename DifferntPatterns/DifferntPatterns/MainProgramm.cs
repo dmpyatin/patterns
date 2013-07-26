@@ -11,6 +11,14 @@ using Prototype;
 using RAII;
 using Singleton;
 using Delegation;
+using CustomAttributes;
+using PublishSubscribe;
+using EventChannel;
+using Adapter;
+using Wrapper;
+using Facade;
+using Proxy;
+using Composite;
 
 namespace DifferntPatterns
 {
@@ -27,6 +35,14 @@ namespace DifferntPatterns
             var rAIIPattern = new RAIIPattern();
             var singletonPattern = new SingletonPattern();
             var delegationPattern = new DelegationPattern();
+            var customAttributesPattern = new CustomAttributesPattern();
+            var publishSubscribePattern = new PublishSubscribePattern();
+            var eventChannelPattern = new EventChannelPattern();
+            var adapterPattern = new AdapterPattern();
+            var wrapperPattern = new WrapperPattern();
+            var facadePattern = new FacadePattern();
+            var proxyPattern = new ProxyPattern();
+            var compositePattern = new CompositePattern();
         }
     }
 }

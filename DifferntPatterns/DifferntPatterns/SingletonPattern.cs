@@ -8,33 +8,14 @@ namespace Singleton
 {
 
     //версия 1
-    /*public sealed class SingletonOne
+    class SingletonOne
     {
-        private static volatile SingletonOne instance;
-        private static object sycRoot = new Object();
-
-        private SingletonOne() { }
-
-        private static SingletonOne Instance
+        private static SingletonOne instance = new SingletonOne();
+        public static SingletonOne GetInstance()
         {
-            get
-            {
-                if (instance == null)
-                {
-                    lock (syncRoot)
-                    {
-                        if (instance == null)
-                            instance = new SingletonOne();
-                    }
-                }
-
-                return instance;
-            }
-
-            
+            return instance;
         }
-
-    }*/
+    }
 
     //версия 2
     public sealed class SingletonTwo
