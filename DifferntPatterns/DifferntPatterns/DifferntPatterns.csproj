@@ -58,6 +58,7 @@
     <Compile Include="PublishSubscribePattern.cs" />
     <Compile Include="RAIIPattern.cs" />
     <Compile Include="SingletonPattern.cs" />
+    <Compile Include="StrategyPattern.cs" />
     <Compile Include="WrapperPattern.cs" />
   </ItemGroup>
   <ItemGroup>

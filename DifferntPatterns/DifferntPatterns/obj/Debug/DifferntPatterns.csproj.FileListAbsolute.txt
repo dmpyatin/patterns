@@ -4,3 +4,9 @@ c:\users\dmitry\documents\visual studio 2012\Projects\DifferntPatterns\DifferntP
 c:\users\dmitry\documents\visual studio 2012\Projects\DifferntPatterns\DifferntPatterns\bin\Debug\DifferntPatterns.pdb
 c:\users\dmitry\documents\visual studio 2012\Projects\DifferntPatterns\DifferntPatterns\obj\Debug\DifferntPatterns.exe
 c:\users\dmitry\documents\visual studio 2012\Projects\DifferntPatterns\DifferntPatterns\obj\Debug\DifferntPatterns.pdb
+C:\Users\Dmitry\Documents\GitHub\patterns\DifferntPatterns\DifferntPatterns\bin\Debug\DifferntPatterns.exe.config
+C:\Users\Dmitry\Documents\GitHub\patterns\DifferntPatterns\DifferntPatterns\obj\Debug\DifferntPatterns.exe
+C:\Users\Dmitry\Documents\GitHub\patterns\DifferntPatterns\DifferntPatterns\obj\Debug\DifferntPatterns.pdb
+C:\Users\Dmitry\Documents\GitHub\patterns\DifferntPatterns\DifferntPatterns\obj\Debug\DifferntPatterns.csprojResolveAssemblyReference.cache
+C:\Users\Dmitry\Documents\GitHub\patterns\DifferntPatterns\DifferntPatterns\bin\Debug\DifferntPatterns.exe
+C:\Users\Dmitry\Documents\GitHub\patterns\DifferntPatterns\DifferntPatterns\bin\Debug\DifferntPatterns.pdb

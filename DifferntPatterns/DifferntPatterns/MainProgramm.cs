@@ -19,6 +19,7 @@ using Wrapper;
 using Facade;
 using Proxy;
 using Composite;
+using Strategy;
 
 namespace DifferntPatterns
 {
@@ -43,6 +44,7 @@ namespace DifferntPatterns
             var facadePattern = new FacadePattern();
             var proxyPattern = new ProxyPattern();
             var compositePattern = new CompositePattern();
+            var strategyPattern = new StrategyPattern();
         }
     }
 }
