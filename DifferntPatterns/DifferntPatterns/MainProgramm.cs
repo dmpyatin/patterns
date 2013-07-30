@@ -20,6 +20,9 @@ using Facade;
 using Proxy;
 using Composite;
 using Strategy;
+using Mediator;
+using ChainOfResponsibility;
+using TemplateMethod;
 
 namespace DifferntPatterns
 {
@@ -45,6 +48,9 @@ namespace DifferntPatterns
             var proxyPattern = new ProxyPattern();
             var compositePattern = new CompositePattern();
             var strategyPattern = new StrategyPattern();
+            var mediatorPattern = new MediatorPattern();
+            var chainOfResponsibilityPattern = new ChainOfResponsibilityPattern();
+            var templateMethodPattern = new TemplateMethodPattern();
         }
     }
 }
